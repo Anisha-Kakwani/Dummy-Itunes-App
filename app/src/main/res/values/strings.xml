@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HW04</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="passwordfield_hint">Password</string>
+    <string name="emailfield_hint">Email</string>
+    <string name="login_label">Login</string>
+    <string name="createNewAccount_label">Create New Account</string>
+    <string name="toast_mandatory">All fields are mandatory</string>
+    <string name="toast_invalid">Invalid Credentials</string>
+    <string name="toast_existing_email">Email already exists</string>
+    <string name="toast_error">Error! Something went wrong</string>
+    <string name="submit_label">Submit</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="namefield_hint">Name</string>
+    <string name="register_account_label">Register Account</string>
+    <string name="logOut_label">Log Out</string>
+    <string name="app_categories_label">App Categories</string>
+    <string name="app_details_label">App Details</string>
+    <string name="welcome_label">Welcome</string>
+    <string name="Genres">Genres</string>
+</resources>
